@@ -11,3 +11,7 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
+- 🎓 Currently studying Artificial Intelligence Systems, University of Trento
+- ✨ NLP enthusiast
+- 🗺️ OpenStreetMap Foundation member
