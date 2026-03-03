@@ -17,7 +17,7 @@
 </picture>
 
 ## 🚀 About Me
-- 🎓 Currently studying **Artificial Intelligence Systems**, University of Trento
+- 🎓 MSc in **Artificial Intelligence Systems**, University of Trento
 - ✨ **NLP** enthusiast
 - 🗺️ **OpenStreetMap** Foundation member
 
