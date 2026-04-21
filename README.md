@@ -17,6 +17,7 @@
 </picture>
 
 ## 🚀 About Me
+- 🔥 PhD Student, Fondazione Bruno Kessler & University of Bologna
 - 🎓 MSc in **Artificial Intelligence Systems**, University of Trento
 - ✨ **NLP** enthusiast
 - 🗺️ **OpenStreetMap** Foundation member
