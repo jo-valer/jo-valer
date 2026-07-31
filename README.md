@@ -26,3 +26,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-valer&layout=donut&size_weight=0.75&count_weight=0.25&hide=Jupyter%20Notebook,TeX&exclude_repo=Robotics&langs_count=5)](https://github.com/jo-valer/)
 -->
 
+[![Compact Langs](https://github-readme-tech-stack.vercel.app/api/top-langs/?username=jo-valer&hide=Jupyter%20Notebook,TeX)](https://github.com/jo-valer/)
